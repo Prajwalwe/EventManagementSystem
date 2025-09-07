@@ -1,0 +1,3 @@
+chat-1: https://chatgpt.com/share/68bd51cb-bed0-8006-92f3-e0e8de3a4707
+chat-2: https://chatgpt.com/share/68bd528f-3310-8006-9d7b-77117a886493
+chat-3: https://chatgpt.com/share/68bd52c8-3fe8-8006-9169-80153dee1d63

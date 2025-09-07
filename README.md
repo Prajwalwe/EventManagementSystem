@@ -23,10 +23,9 @@ I made a Campus Event Management system. In this, colleges can create events lik
 
 1. Open the backend project in Visual Studio
 2. In Package Manager Console, run:
-   `
-   add-migration InitialCreate
-   update-database
-   `
+
+   ```add-migration InitialCreate
+   update-database```
 3. Run the backend project. It will run at `https://localhost:7161`
 
 ## Most Challenging part

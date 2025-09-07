@@ -38,7 +38,5 @@ I made a Campus Event Management system. In this, colleges can create events lik
 ## Good Things 
 
 * I enjoyes it a lot and i learnt a lot from this
-
 * i have never use sqlite, i know MSSMS, i learnt how to use sqlite
-
 * Finally i made it

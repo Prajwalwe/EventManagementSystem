@@ -1,4 +1,5 @@
 # Campus Event Management System
+Project name is Karya, it means Event in Kannada
 
 ## About the Project
 

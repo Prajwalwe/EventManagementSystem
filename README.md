@@ -28,6 +28,7 @@ I made a Campus Event Management system. In this, colleges can create events lik
    add-migration InitialCreate
    update-database```
 3. Run the backend project. It will run at `https://localhost:7161`
+4.It can be accessed only from `https://localhost:4200` or `http://localhost:4200`
 
 ## Most Challenging part
 
